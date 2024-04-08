@@ -1,6 +1,6 @@
 ﻿  SeqList.c
-C:\D original\study folder\C\data_structure\2024_03_29\SeqList.c(15,30): warning C4028: 形参 1 与声明不同
-C:\D original\study folder\C\data_structure\2024_03_29\SeqList.c(97,30): warning C4028: 形参 1 与声明不同
   Test.c
   正在生成代码...
+C:\D original\study folder\C\data_structure\2024_03_29\SeqList.c(15,30): warning C4028: 形参 1 与声明不同
+C:\D original\study folder\C\data_structure\2024_03_29\SeqList.c(97,30): warning C4028: 形参 1 与声明不同
   2024_03_29.vcxproj -> C:\D original\study folder\C\data_structure\2024_03_29\x64\Debug\2024_03_29.exe
