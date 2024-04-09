@@ -1,0 +1,17 @@
+﻿  Slist.c
+C:\D original\study folder\C\data_structure\DList\Slist.c(26,9): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(28,14): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(42,8): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(59,13): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(80,8): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(94,7): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(108,8): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(124,8): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(143,17): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(152,8): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(155,12): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+C:\D original\study folder\C\data_structure\DList\Slist.c(156,16): warning C4133: “=”: 从“SL *”到“SL *”的类型不兼容
+  Test.c
+  正在生成代码...
+C:\D original\study folder\C\data_structure\DList\Slist.c(117,1): warning C4715: “findlist”: 不是所有的控件路径都返回值
+  DList.vcxproj -> C:\D original\study folder\C\data_structure\DList\x64\Debug\DList.exe
